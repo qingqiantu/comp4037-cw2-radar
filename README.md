@@ -10,7 +10,7 @@ This repository contains the source code and data for my Coursework 2 visualizat
 
 ## Preview
 
-![Radar Chart](Normalized_Radar_Chart_Diet_Impact.png)
+![Radar Chart]
 
 ## Unique Observations
 
