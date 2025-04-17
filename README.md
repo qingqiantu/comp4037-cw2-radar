@@ -10,7 +10,7 @@ This repository contains the source code and data for my Coursework 2 visualizat
 
 ## Preview
 
-![Radar Chart]
+Radar Chart
 
 ## Unique Observations
 
